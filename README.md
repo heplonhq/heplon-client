@@ -1,14 +1,9 @@
 # Heplon CLI releases
 
 This repository hosts the official prebuilt binaries of the Heplon CLI
-(`heplon`). It is a download host, not a source mirror.
-
-The source code of the Heplon CLI is maintained in a private repository and is
-not published here.
+(`heplon`).
 
 ## License
-
-The Heplon CLI is proprietary software. It is **not** open source.
 
 The Heplon-owned portions of the binary are licensed under the
 [PolyForm Internal Use License 1.0.0](https://polyformproject.org/licenses/internal-use/1.0.0/),
@@ -24,9 +19,7 @@ licenses. Their complete notices are bundled in every release archive as
 
 Currently published: **Linux x86_64 (musl, statically linked)**.
 
-Download the attached `.tar.gz` asset from a release. Do **not** use GitHub's
-automatically generated "Source code (zip/tar.gz)" archives; they contain no
-Heplon software.
+Download the attached `.tar.gz` asset from a release.
 
 ## Install
 
