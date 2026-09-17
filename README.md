@@ -27,7 +27,7 @@ Replace `<VERSION>` with the release version, for example `0.1.0`.
 
 ```sh
 VERSION=<VERSION>
-BASE="https://github.com/heplonhq/heplon-client/releases/download/heplon-v${VERSION}"
+BASE="https://github.com/heplonhq/heplon-cli/releases/download/heplon-cli-v${VERSION}"
 ARCHIVE="heplon-${VERSION}-x86_64-unknown-linux-musl.tar.gz"
 
 curl -fLO "${BASE}/${ARCHIVE}"
